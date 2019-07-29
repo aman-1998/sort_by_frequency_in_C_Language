@@ -6,8 +6,8 @@ int comparator(const void* p1, const void* p2);
 
 Return value meaning:
 
-  * < 0 The element pointed by p1 goes before the element pointed by p2
+  * < 0. The element pointed by p1 goes before the element pointed by p2
 
-  * = 0  The element pointed by p1 is equivalent to the element pointed by p2
+  * = 0.  The element pointed by p1 is equivalent to the element pointed by p2
 
-  * > 0 The element pointed by p1 goes after the element pointed by p2
+  * greater than 0. The element pointed by p1 goes after the element pointed by p2
